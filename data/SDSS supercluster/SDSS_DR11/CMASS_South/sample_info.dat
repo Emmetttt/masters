@@ -1,0 +1,8 @@
+sampleHandle = 'CMASS_South'
+isBox = False
+numTracer = 170021
+numMock = 176480
+numNonEdge = 146056
+boxLen = 3612.121460
+tracerDens = 1.917407e-04
+fSky = 0.052524
