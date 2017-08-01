@@ -22,18 +22,18 @@ supernovae data into descrete lists is also done here so importing the data is s
 
 # Graphs
 The graphs section is split into three files:
-1. 
+1. **/cluster** 
 
-   **cluster:** Cluster analysis to determine if the cluster appreciably affects the rate of expansion of the universe.
+   Cluster analysis to determine if the cluster appreciably affects the rate of expansion of the universe.
 
-2. 
+2. **/hubble_plots**
 
-   **hubble_plots:** Hubble diagrams going out to difference distances, comparing different directions etc.
+   Hubble diagrams going out to difference distances, comparing different directions etc.
 
-3. 
+3. **/newsupercluster** 
 
-   **newsupercluster:** Supercluster analysis and Supercluster and cluster analysis combined.
+   Supercluster analysis and Supercluster and cluster analysis combined.
 
-4. 
+4. **/spacial_plots**
 
-   **spacial_plots:** Mollwiede plots of the supernovae
+    Mollwiede plots of the supernovae
