@@ -20,13 +20,20 @@ The functions file (graphs/functions.py) was the main file where all the functio
 all the functions and constants used throughout the project. Any simple data manipulation, such as splitting the components of the
 supernovae data into descrete lists is also done here so importing the data is smooth.
 
-#Graphs
+# Graphs
 The graphs section is split into three files:
-1. cluster
-...Cluster analysis to determine if the cluster appreciably affects the rate of expansion of the universe.
-2. hubble_plots
-...Hubble diagrams going out to difference distances, comparing different directions etc.
-3. newsupercluster
-...Supercluster analysis and Supercluster and cluster analysis combined.
-4. Spacial Plots
-...Mollwiede plots of the supernovae
+1. 
+
+   **cluster:** Cluster analysis to determine if the cluster appreciably affects the rate of expansion of the universe.
+
+2. 
+
+   **hubble_plots:** Hubble diagrams going out to difference distances, comparing different directions etc.
+
+3. 
+
+   **newsupercluster:** Supercluster analysis and Supercluster and cluster analysis combined.
+
+4. 
+
+   **spacial_plots:** Mollwiede plots of the supernovae
